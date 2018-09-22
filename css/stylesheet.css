@@ -1,0 +1,68 @@
+
+header {
+    background-color: #666;
+    padding: 10px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+li{
+	font-family: Arial, Helvetica, sans-serif;
+	list-style-type: none;
+	color:#1E88E5;
+
+}
+/*is there some way to blanket font-family for the whole page instead of calling out specific elements?*/
+i{
+	color:white;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+h4 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+address{
+	font-family: Arial, Helvetica, sans-serif;
+}
+div{
+	float: none;
+}
+img{
+	width:80%;
+}
+body{
+    background:#AED6F1;
+}
+section {
+	float: left;
+ 	margin: 0 1.5%;
+ 	width: 20%;
+}
+aside {
+ 	float: right;
+ 	margin: 0 1.5%;
+ 	width: 30%;
+ 	border-style: solid;
+ 	border-radius: 5px;
+ 	border-color:#1E88E5;
+ }
+ iframe{
+ 	border:0; 
+ 	overflow:hidden;
+}
+footer{
+	font-family: Arial, Helvetica, sans-serif;
+	float: none;
+	margin: 0 1.5%;
+	width: 63%;
+}
