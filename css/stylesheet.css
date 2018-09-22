@@ -10,7 +10,6 @@ li{
 	font-family: Arial, Helvetica, sans-serif;
 	list-style-type: none;
 	color:#1E88E5;
-
 }
 /*is there some way to blanket font-family for the whole page instead of calling out specific elements?*/
 i{
@@ -44,7 +43,7 @@ body{
     background:#AED6F1;
 }
 
-/* For to to figure out later
+/* For to to figure out later, yes i know something is fishy about the way the images are on desktop vs. mobile, but this is not part of this assignment.
 section {
 	float: left;
  	margin: 0 1.5%;
