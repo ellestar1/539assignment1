@@ -67,3 +67,6 @@ footer{
 	margin: 0 1.5%;
 	width: 63%;
 }
+nav a{
+	text-decoration: initial;
+}
